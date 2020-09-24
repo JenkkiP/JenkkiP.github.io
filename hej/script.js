@@ -17,4 +17,3 @@ while(i < row.length)
     i++
 }
 
-changeColor();
