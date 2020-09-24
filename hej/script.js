@@ -1,6 +1,6 @@
 let row = document.getElementsByClassName("ok");
 let i = 0;
-let a = ["lightgray"]
+let a = ["lime"]
 let b = 0;
 changeColor();
 
