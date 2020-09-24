@@ -2,7 +2,7 @@ let row = document.getElementsByClassName("ok");
 let i = 0;
 let a = ["lime"]
 let b = 0;
-changeColor();
+
 
 function changeColor()
 {
@@ -16,3 +16,5 @@ while(i < row.length)
     row[i].addEventListener("click", changeColor);
     i++
 }
+
+changeColor();
